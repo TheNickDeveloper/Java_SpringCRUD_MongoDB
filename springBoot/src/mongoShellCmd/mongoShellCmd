@@ -1,0 +1,8 @@
+// Create users
+db.createUser({
+	user:"nick",
+	pwd:"nick",
+	role:["readWrite","dbAdmin"]
+});
+
+ db.Student.insert({name:"Mina",course:"piano"});
