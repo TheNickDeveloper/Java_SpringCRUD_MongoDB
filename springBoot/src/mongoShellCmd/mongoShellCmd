@@ -6,3 +6,5 @@ db.createUser({
 });
 
  db.Student.insert({name:"Mina",course:"piano"});
+
+ "C:\Program Files\MongoDB\Server\4.0\bin\mongo.exe"
